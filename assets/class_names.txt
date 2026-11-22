@@ -1,0 +1,6 @@
+Algae_Pollution
+chemical_pollution
+mixed_pollution
+natural_polution
+plastic_pollution
+polythene_pollution
